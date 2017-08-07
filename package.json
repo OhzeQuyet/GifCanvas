@@ -1,0 +1,33 @@
+{
+  "name": "gifcanvas",
+  "version": "1.0.0",
+  "description": "Play Gif image in HTML canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quyetdx57/GifCanvas.git"
+  },
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.30.1",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.3.2",
+    "webpack": "^2.7.0"
+  },
+  "keywords": [
+    "Gif",
+    "Canvas"
+  ],
+  "author": "QuyetDX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quyetdx57/GifCanvas/issues"
+  },
+  "homepage": "https://github.com/quyetdx57/GifCanvas#readme",
+  "dependencies": {
+    "typescript": "^2.4.2"
+  }
+}
